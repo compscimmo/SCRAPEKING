@@ -1,0 +1,837 @@
+========== Data from page 10/7 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法
+查看全部队伍
+   Alert Text: 戏法
+========== Data from page 10/7 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 剩饭+喷射火焰
+red_bold_text: 雷拳送掉(避免引火)，上鬼灯戏法
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (3) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 美纳斯
+       nested_header_operate_text (collapsed): 青蛙6+2。/近战杀美纳斯
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): 无需宝石
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 企鹅/电灯怪
+       nested_header_operate_text (collapsed): 地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): 意外被热水，青蛙6+2。/近战杀美纳斯
+     --------------------
+     Nested Item 0-3:
+       nested_header_label_text (collapsed): 飞机不走
+       nested_header_operate_text (collapsed): 混混磕特防药+3。/近战杀美纳斯
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): 吸取杀飞机
+     --------------------
+------------------------------
+========== Data from page 10/7 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 讲究眼镜+喷射火焰
+red_bold_text: 切鬼灯戏法，锁美纳斯，青蛙6+2
+warning_badge_text: 飞机意外不走，切巨金送掉，再上鬼灯戏法
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/7 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 波导弹
+red_bold_text: 切鬼灯戏法，①命玉企鹅，地鼠4+2②剩饭企鹅，青蛙6+2
+warning_badge_text: 无需冰拳
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/7 ==========
+--- Card Entry (Card 4) ---
+pokemon_name: 电灯怪/鲶鱼王
+red_bold_text: 地鼠4+2
+warning_badge_text: 意外被热水，青蛙6+2。/近战杀美纳斯
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 10/14 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法锁火拳，切鬼灯戏法，锁美纳斯/鲸鱼，青蛙6+2
+查看全部队伍
+   Alert Text: 戏法锁火拳，切鬼灯戏法，锁美纳斯/鲸鱼，青蛙6+2
+
+========== Data from page 10/32 ==========
+--- Alert Box Data ---
+   Alert Text: 切鬼灯
+查看全部队伍
+   Alert Text: 切鬼灯
+========== Data from page 10/32 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 喷射火焰
+red_bold_text: 戏法看技能
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (4) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 疯狂伏特
+       nested_header_operate_text (collapsed): 地鼠6+0
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 十万伏特
+       nested_header_operate_text (collapsed): 地鼠补钉2+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-3:
+       nested_header_label_text (collapsed): 伏特替换，出海星
+       nested_header_operate_text (collapsed): 切巨金戏法，①水炮，青蛙6+2②雷吉斯，地鼠2+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): 腹鼓出鳗鱼，地鼠2+2
+     --------------------
+     Nested Item 0-4:
+       nested_header_label_text (collapsed): 伏特替换，出美纳斯
+       nested_header_operate_text (collapsed): 青蛙6+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): 后排没有先制
+     --------------------
+------------------------------
+========== Data from page 10/32 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 火焰拳
+red_bold_text: 戏法锁疯狂伏特，地鼠6+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/32 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 对位美纳斯
+red_bold_text: 戏法锁热水，青蛙6+2。/近战杀海狮、美纳斯
+warning_badge_text: 无需冰拳
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/32 ==========
+--- Card Entry (Card 4) ---
+pokemon_name: 对位巨金怪
+red_bold_text: 戏法锁岩崩，混混3。/近战杀美纳斯
+warning_badge_text: 可利用+2吸取拳回血
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 10/33 ==========
+--- Alert Box Data ---
+   Alert Text: 切鬼灯戏法，锁岩崩，混混3。/近战杀美纳斯
+可利用+2吸取拳回血
+查看全部队伍
+   Alert Text: 切鬼灯戏法，锁岩崩，混混3。/近战杀美纳斯
+   Alert Text: 可利用+2吸取拳回血
+
+========== Data from page 10/46 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法
+查看全部队伍
+   Alert Text: 戏法
+========== Data from page 10/46 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 攀瀑
+red_bold_text: 青蛙6+2。/近战杀美纳斯
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/46 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 雷吉斯
+red_bold_text: 切混混看技能
+warning_badge_text: N/A
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 地震
+       nested_header_operate_text (collapsed): 混混2。/吸取+围攻杀美纳斯
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 地球上投
+       nested_header_operate_text (collapsed): 混混1+元气根回血再+攻击药。/近战杀美纳斯
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+
+========== Data from page 10/94 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法锁雷吉斯，地鼠补钉2+2
+查看全部队伍
+   Alert Text: 戏法锁雷吉斯，地鼠补钉2+2
+
+========== Data from page 10/100 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法锁雷吉斯，地鼠2+2
+查看全部队伍
+   Alert Text: 戏法锁雷吉斯，地鼠2+2
+
+========== Data from page 10/116 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法
+查看全部队伍
+   Alert Text: 戏法
+========== Data from page 10/116 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 地震
+red_bold_text: 切鬼灯
+warning_badge_text: 若巨金被地震ct，默认企鹅不走，直接切地鼠4+2
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 企鹅不走
+       nested_header_operate_text (collapsed): 地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 对位鲶鱼王
+       nested_header_operate_text (collapsed): 戏法，①地震，地鼠4+2②美纳斯，青蛙6+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+========== Data from page 10/116 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 热水
+red_bold_text: 切鬼灯
+warning_badge_text: 被热水烧伤，直接切青蛙6+2
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 对位电灯怪
+       nested_header_operate_text (collapsed): 戏法锁热水，青蛙6+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): 无需冰拳
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 不走
+       nested_header_operate_text (collapsed): 青蛙6+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): 无需冰拳
+     --------------------
+------------------------------
+========== Data from page 10/116 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 鲶鱼王
+red_bold_text: 地鼠4+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/116 ==========
+--- Card Entry (Card 4) ---
+pokemon_name: 美纳斯
+red_bold_text: 青蛙6+2。/近战杀美纳斯
+warning_badge_text: 跑飞机，点开看下面👇🏻
+primary_trick_text: N/A
+  --- Nested Items (1) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 腹鼓出飞机
+       nested_header_operate_text (collapsed): 近战打死，出毒草，切混混看技能，①神通力，混混3②污泥炸弹，地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+========== Data from page 10/116 ==========
+--- Card Entry (Card 5) ---
+pokemon_name: 电灯怪
+red_bold_text: 青蛙6+2。/无需冰拳
+warning_badge_text: 切青蛙见十万伏特，地鼠4+2
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 10/117 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法
+查看全部队伍
+   Alert Text: 戏法
+========== Data from page 10/117 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 巨金怪
+red_bold_text: 鬼灯放火点杀，出金鱼王/美纳斯，青蛙6+2。/近战杀美纳斯、海狮
+warning_badge_text: ①无需冰拳②被冻用万灵药解
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/117 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 美纳斯
+red_bold_text: 青蛙6+2。/近战杀美纳斯、海狮
+warning_badge_text: ①无需冰拳②被冻用万灵药解
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 10/118 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法
+查看全部队伍
+   Alert Text: 戏法
+========== Data from page 10/118 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 雷吉斯奇鲁
+red_bold_text: 地鼠4+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/118 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 美纳斯
+red_bold_text: 青蛙6+2。/近战杀美纳斯、无需冰拳
+warning_badge_text: 跑飞机，点开看下面
+primary_trick_text: N/A
+  --- Nested Items (1) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 腹鼓出飞机
+       nested_header_operate_text (collapsed): 近战打死，出毒草，切混混看技能，①神通力，混混3②污泥炸弹，地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+========== Data from page 10/118 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 乐天河童
+red_bold_text: 青蛙6+2
+warning_badge_text: 无需冰拳
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/118 ==========
+--- Card Entry (Card 4) ---
+pokemon_name: 十万伏特
+red_bold_text: 地鼠4+2
+warning_badge_text: 地震杀河童
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/118 ==========
+--- Card Entry (Card 5) ---
+pokemon_name: 头盔+热水
+red_bold_text: 青蛙6+2
+warning_badge_text: 无需冰拳
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/118 ==========
+--- Card Entry (Card 6) ---
+pokemon_name: 零余果+热水
+red_bold_text: 青蛙6+2。/近战杀美纳斯
+warning_badge_text: 无需冰拳
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/118 ==========
+--- Card Entry (Card 7) ---
+pokemon_name: 剩饭+热水
+red_bold_text: 看热水是否烧伤/ct
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 烧伤/ct了
+       nested_header_operate_text (collapsed): 青蛙6+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): 需要冰拳
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 没有
+       nested_header_operate_text (collapsed): 切鬼灯，①电灯怪不走，青蛙6+2②对位雷吉斯，戏法锁地震，地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): 需要冰拳
+     --------------------
+------------------------------
+
+========== Data from page 10/119 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法
+查看全部队伍
+   Alert Text: 戏法
+========== Data from page 10/119 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 雷吉斯奇鲁
+red_bold_text: 看道具
+warning_badge_text: N/A
+primary_trick_text: N/A
+  --- Nested Items (3) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 零余果
+       nested_header_operate_text (collapsed): 撒钉，地鼠2+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 达人带
+       nested_header_operate_text (collapsed): 地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-3:
+       nested_header_label_text (collapsed): 讲究眼镜
+       nested_header_operate_text (collapsed): 地鼠2+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+========== Data from page 10/119 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 觉醒力量
+red_bold_text: 切鬼灯
+warning_badge_text: N/A
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 不走
+       nested_header_operate_text (collapsed): 放火点杀，出美纳斯/鲸鱼，青蛙6+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 对位雷吉斯
+       nested_header_operate_text (collapsed): 戏法，①地震，地鼠4+2②鲸鱼，青蛙6+4
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+========== Data from page 10/119 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 飞叶风暴
+red_bold_text: 戏法换回来，撒钉送掉，鬼灯放火点杀(出美纳斯)，青蛙6+2
+warning_badge_text: 待测
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 10/122 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法
+查看全部队伍
+   Alert Text: 戏法
+========== Data from page 10/122 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 巨沼怪
+red_bold_text: 切地鼠切鬼灯，对位暴鲤龙，戏法锁攀瀑，青蛙6+2。/近战杀美纳斯
+warning_badge_text: 鬼灯死了且青蛙血量75%，切混混再切青蛙强化
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/122 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 雷吉斯奇鲁
+red_bold_text: 切混混看技能
+warning_badge_text: N/A
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 地震
+       nested_header_operate_text (collapsed): 混混2。/吸取+围攻杀美纳斯
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 地球上投
+       nested_header_operate_text (collapsed): 1+元气根回血再+攻击药。/近战杀美纳斯
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+========== Data from page 10/122 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 喷射火焰
+red_bold_text: 送掉巨金，青蛙6+元气根回血再+2。/近战杀美纳斯
+warning_badge_text: 待测：混混3。/近战美纳斯
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 10/133 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法锁地震，切地鼠切鬼灯，对位暴鲤龙，戏法锁攀瀑，青蛙6+2。/近战杀美纳斯、无需宝石
+鬼灯死了且青蛙血量75%，切混混再切青蛙6+2
+查看全部队伍
+   Alert Text: 戏法锁地震，切地鼠切鬼灯，对位暴鲤龙，戏法锁攀瀑，青蛙6+2。/近战杀美纳斯、无需宝石
+   Alert Text: 鬼灯死了且青蛙血量75%，切混混再切青蛙6+2
+
+========== Data from page 10/134 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法看技能
+查看全部队伍
+   Alert Text: 戏法看技能
+========== Data from page 10/134 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 地震
+red_bold_text: 看道具
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (3) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 剩饭
+       nested_header_operate_text (collapsed): ①混混2。/吸取+围攻杀美纳斯
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): ②混混3。/近战杀美纳斯
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 达人带
+       nested_header_operate_text (collapsed): 地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-3:
+       nested_header_label_text (collapsed): 零余果
+       nested_header_operate_text (collapsed): 地鼠补钉2+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+========== Data from page 10/134 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 真气弹
+red_bold_text: 切鬼灯戏法，锁美纳斯，青蛙6+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/134 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 十万伏特
+red_bold_text: 地鼠2+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/134 ==========
+--- Card Entry (Card 4) ---
+pokemon_name: 地球上投
+red_bold_text: 混混1+元气根回血再+攻击药。/近战杀美纳斯
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 10/135 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法
+查看全部队伍
+   Alert Text: 戏法
+========== Data from page 10/135 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 讲究眼镜
+red_bold_text: 青蛙6+2+6。/无需冰拳
+warning_badge_text: 出意外，点开看下面👇🏻
+primary_trick_text: N/A
+  --- Nested Items (1) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 沙奈朵ct秒杀青蛙
+       nested_header_operate_text (collapsed): 鬼灯戏法锁精冲，混混3。/近战杀雷吉斯
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+========== Data from page 10/135 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 头盔
+red_bold_text: 青蛙6+2。/近战杀海狮、美纳斯(无需冰拳)
+warning_badge_text: 跑其他，点开看下面👇🏻
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 腹鼓出飞机
+       nested_header_operate_text (collapsed): 近战打死，出毒草，切混混看技能，①神通力，混混3②污泥炸弹，地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 腹鼓出暴鲤龙
+       nested_header_operate_text (collapsed): 鬼灯戏法锁攀瀑，看鬼灯是否死亡👇🏻
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+    --- Nested Items (2) ---
+       Nested Item 1-1:
+         nested_header_label_text (collapsed): 死了
+         nested_header_operate_text (collapsed): 切巨金帮青蛙磕一瓶厉害伤药回血，再切青蛙6+2。/近战杀美纳斯
+         nested_trick_text (expanded): N/A
+         nested_body_label_text (expanded): N/A
+         nested_body_operate_text (expanded): N/A
+         nested_warning_badge_text (expanded): N/A
+       --------------------
+       Nested Item 1-2:
+         nested_header_label_text (collapsed): 没死
+         nested_header_operate_text (collapsed): 帮青蛙磕厉害伤药回血，切混混切青蛙6+2。/近战杀美纳斯
+         nested_trick_text (expanded): N/A
+         nested_body_label_text (expanded): N/A
+         nested_body_operate_text (expanded): N/A
+         nested_warning_badge_text (expanded): N/A
+       --------------------
+     --------------------
+------------------------------
+========== Data from page 10/135 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 雷吉斯奇鲁
+red_bold_text: 看道具
+warning_badge_text: N/A
+primary_trick_text: N/A
+  --- Nested Items (3) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 达人带
+       nested_header_operate_text (collapsed): 地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 零余果
+       nested_header_operate_text (collapsed): 地鼠补钉2+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-3:
+       nested_header_label_text (collapsed): 讲究眼镜
+       nested_header_operate_text (collapsed): 地鼠2+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+========== Data from page 10/135 ==========
+--- Card Entry (Card 4) ---
+pokemon_name: 巨金怪
+red_bold_text: 鬼灯放火点杀，出金鱼王/美纳斯，青蛙6+2。/近战杀美纳斯、海狮
+warning_badge_text: ①无需冰拳②被冻用万灵药解
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/135 ==========
+--- Card Entry (Card 5) ---
+pokemon_name: 鲶鱼王/电灯怪
+red_bold_text: 地鼠4+2
+warning_badge_text: 意外被热水，青蛙6+2。/近战杀美纳斯(无需冰拳)
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/135 ==========
+--- Card Entry (Card 6) ---
+pokemon_name: 巨沼怪
+red_bold_text: 切地鼠切鬼灯，对位暴鲤龙，戏法锁攀瀑，青蛙6+2。/近战杀美纳斯(无需冰拳)
+warning_badge_text: 鬼灯死了且青蛙血量75%，切混混再切青蛙强化
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 10/136 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法
+查看全部队伍
+   Alert Text: 戏法
+========== Data from page 10/136 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 金鱼不走/美纳斯
+red_bold_text: 青蛙6+2。/近战杀海狮、美纳斯
+warning_badge_text: ①无需冰拳②被冻用万灵药解
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/136 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 巨金怪
+red_bold_text: 鬼灯放火点杀，出金鱼王/美纳斯，青蛙6+2。/近战杀海狮、美纳斯
+warning_badge_text: ①无需冰拳②被冻用万灵药解
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/136 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 鳗鱼
+red_bold_text: 切鬼灯对位巨金怪，放火点杀，出金鱼王/美纳斯，青蛙6+2。/近战杀海狮、美纳斯
+warning_badge_text: ①无需冰拳②被冻用万灵药解
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 10/137 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法
+查看全部队伍
+   Alert Text: 戏法
+========== Data from page 10/137 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 巨金怪
+red_bold_text: 鬼灯放火点杀，出金鱼王/美纳斯，青蛙6+2。/近战杀美纳斯、海狮
+warning_badge_text: ①无需冰拳②被冻用万灵药解
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/137 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 美纳斯
+red_bold_text: 青蛙6+2。/近战杀美纳斯、海狮
+warning_badge_text: 无需冰拳
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/137 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 麻麻鳗鱼王
+red_bold_text: 切鬼灯对位美纳斯，戏法锁热水，青蛙6+2。/近战杀美纳斯、海狮
+warning_badge_text: 无需冰拳
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/137 ==========
+--- Card Entry (Card 4) ---
+pokemon_name: 鲶鱼王
+red_bold_text: 地鼠4+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/137 ==========
+--- Card Entry (Card 5) ---
+pokemon_name: 觉醒力量
+red_bold_text: 青蛙6+2。/近战杀美纳斯
+warning_badge_text: 无需冰拳
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 10/138 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法
+查看全部队伍
+   Alert Text: 戏法
+========== Data from page 10/138 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 雷吉斯奇鲁
+red_bold_text: 地鼠4+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/138 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 地震
+red_bold_text: 切鬼灯对位雷吉斯，戏法锁地震，地鼠4+2
+warning_badge_text: 下次记得帮巨金回血，最多贪一瓶小伤药
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 10/139 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法锁雷吉斯，地鼠2+2
+查看全部队伍
+   Alert Text: 戏法锁雷吉斯，地鼠2+2
+
+========== Data from page 10/140 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法锁水炮，青蛙6+2
+无需冰拳
+查看全部队伍
+   Alert Text: 戏法锁水炮，青蛙6+2
+   Alert Text: 无需冰拳
+
+========== Data from page 10/141 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法锁地震，地鼠4+2
+查看全部队伍
+   Alert Text: 戏法锁地震，地鼠4+2
+
+========== Data from page 10/142 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法
+查看全部队伍
+   Alert Text: 戏法
+========== Data from page 10/142 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 鲶鱼王/电灯怪
+red_bold_text: 地鼠4+2
+warning_badge_text: 意外被热水，青蛙6+2。/近战杀美纳斯
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/142 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 美纳斯
+red_bold_text: 青蛙6+2。/近战杀美纳斯
+warning_badge_text: 跑飞机，点开看下面👇🏻
+primary_trick_text: N/A
+  --- Nested Items (1) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 腹鼓出飞机
+       nested_header_operate_text (collapsed): 近战打死，出毒草，切混混看技能，①神通力，混混3②污泥炸弹，地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+========== Data from page 10/142 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 雷吉斯奇鲁
+red_bold_text: 撒钉，地鼠2+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/142 ==========
+--- Card Entry (Card 4) ---
+pokemon_name: 暗影球
+red_bold_text: 混混3
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 10/142 ==========
+--- Card Entry (Card 5) ---
+pokemon_name: 波导弹
+red_bold_text: 切鬼灯戏法，①沙奈朵不走，混混3②美纳斯，青蛙6+2
+warning_badge_text: 跑飞机，点开看下面👇🏻
+primary_trick_text: N/A
+  --- Nested Items (1) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 腹鼓出飞机
+       nested_header_operate_text (collapsed): 近战打死，出毒草，切混混看技能，①神通力，混混3②污泥炸弹，地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+

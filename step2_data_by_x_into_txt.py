@@ -1,9 +1,9 @@
 import os
 import re
-import traceback # Import traceback for detailed error logging
-import argparse # Import the argparse module
+import traceback
+import argparse
 
-def extract_and_format_data(input_dir, output_file): # Remove default values here
+def extract_and_format_data(input_dir, output_file_path):
     """
     Reads through all .txt files in the specified input directory,
     extracts specific data values, filters out 'N/A' entries,
@@ -14,7 +14,6 @@ def extract_and_format_data(input_dir, output_file): # Remove default values her
     all_extracted_values = set()
 
     # Define the regex patterns for the data points we want to extract
-    # The (.*) captures everything after the label and colon/parentheses
     patterns = {
         "alert_text": re.compile(r'^\s*Alert Text: (.*)$'),
         "pokemon_name": re.compile(r'^\s*pokemon_name: (.*)$'),
@@ -38,11 +37,11 @@ def extract_and_format_data(input_dir, output_file): # Remove default values her
     for filename in os.listdir(input_dir):
         if filename.startswith("pokeking_icu_home_X_") and filename.endswith(".txt"):
             filepath = os.path.join(input_dir, filename)
-            print(f"   Processing file: {filename}")
+            print(f"    Processing file: {filename}")
             try:
                 with open(filepath, 'r', encoding='utf-8') as f:
                     for line in f:
-                        line = line.strip() # Remove leading/trailing whitespace
+                        line = line.strip()
 
                         for key, pattern in patterns.items():
                             match = pattern.match(line)
@@ -50,36 +49,41 @@ def extract_and_format_data(input_dir, output_file): # Remove default values her
                                 value = match.group(1).strip()
                                 # Only add values that are not "N/A"
                                 if value and value.upper() != 'N/A':
-                                    # Split the value by spaces and add each part to the set
-                                    # Using update() with a set allows adding multiple items from an iterable
                                     all_extracted_values.update(value.split())
-                                break # Move to the next line after finding a match
+                                break
 
             except Exception as e:
-                print(f"   Error processing file {filename}: {e}")
-                traceback.print_exc() # Print full traceback for debugging
+                print(f"    Error processing file {filename}: {e}")
+                traceback.print_exc()
 
     # Join all collected unique values with a single space.
-    # Since sets do not guarantee order, the output order might vary slightly
-    # but all values will be unique.
-    final_output_string = " ".join(sorted(list(all_extracted_values))) # Sort for consistent output order
+    final_output_string = " ".join(sorted(list(all_extracted_values)))
+
+    # Create the output directory if it doesn't exist
+    output_dir = os.path.dirname(output_file_path)
+    if output_dir and not os.path.exists(output_dir):
+        try:
+            os.makedirs(output_dir, exist_ok=True)
+            print(f"Created output directory: {output_dir}")
+        except OSError as e:
+            print(f"Error creating output directory '{output_dir}': {e}")
+            traceback.print_exc()
+            return
 
     # Write the formatted data to the output file
     try:
-        with open(output_file, 'w', encoding='utf-8') as f:
+        with open(output_file_path, 'w', encoding='utf-8') as f:
             f.write(final_output_string)
-        print(f"\nSuccessfully extracted and saved unique data to: {output_file}")
+        print(f"\nSuccessfully extracted and saved unique data to: {output_file_path}")
     except Exception as e:
-        print(f"Error writing to output file '{output_file}': {e}")
+        print(f"Error writing to output file '{output_file_path}': {e}")
         traceback.print_exc()
 
 if __name__ == "__main__":
-    # 1. Create the parser
     parser = argparse.ArgumentParser(
         description="Extracts specific text values from Pokeking scraped data files and saves unique values to an output file."
     )
 
-    # 2. Add arguments
     parser.add_argument(
         "-i", "--input_dir",
         type=str,
@@ -88,14 +92,16 @@ if __name__ == "__main__":
     )
 
     parser.add_argument(
-        "-o", "--output_file",
+        "-o", "--output_filename",
         type=str,
-        default="extracted_pokeking_values.txt", # Default output file name
-        help="The name of the file where unique extracted values will be saved."
+        default="extracted_pokeking_values.txt", # Default name for the output file
+        help="The name of the file where unique extracted values will be saved (e.g., 'my_unique_data.txt'). This file will be saved in the input directory."
     )
 
-    # 3. Parse the arguments from the command line
     args = parser.parse_args()
 
-    # 4. Call your function with the arguments received from the command line
-    extract_and_format_data(args.input_dir, args.output_file)
+    # Construct the full output file path to be inside the input directory
+    full_output_file_path = os.path.join(args.input_dir, args.output_filename)
+
+    # Call your function with the input directory and the newly constructed full output path
+    extract_and_format_data(args.input_dir, full_output_file_path)

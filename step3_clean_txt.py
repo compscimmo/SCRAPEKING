@@ -1,5 +1,11 @@
+# in cmd prompt
+# python step3_clean_txt.py 
+# "C:\Users\wilso\Documents\code\SCRAPEKING\pokeking_scraped_data_by_x\extracted_pokeking_values.txt" - input file
+# "C:\Users\wilso\Documents\code\SCRAPEKING\step4_find_untranslated_values\new_values_to_check.txt" - output file
 import re
 import os
+import argparse # Import the argparse module
+import string # Import the string module to get punctuation characters
 
 def clean_text_file(input_filepath, output_filepath):
     """
@@ -16,16 +22,41 @@ def clean_text_file(input_filepath, output_filepath):
     try:
         with open(input_filepath, 'r', encoding='utf-8') as infile:
             for line in infile:
-                # 1. Remove English letters (a-z, A-Z)
-                # 2. Remove numbers (0-9)
-                # 3. Remove common punctuation and math symbols.
-                #    This regex targets:
-                #    - \p{P}: Unicode punctuation (covers most punctuation)
-                #    - \d: Digits (numbers)
-                #    - [a-zA-Z]: English alphabet
-                #    - [+\-*/=<>(){}[\]]: Specific math symbols and parentheses/brackets
-                #    The re.UNICODE flag is important for \p{P} to work correctly.
-                cleaned_line = re.sub(r'[a-zA-Z0-9\p{P}+\-*/=<>(){}[\]]', ' ', line, flags=re.UNICODE)
+                # Define a regex pattern to remove:
+                # 1. English letters (a-z, A-Z)
+                # 2. Numbers (0-9)
+                # 3. Common punctuation (using string.punctuation)
+                # 4. Specific math symbols and parentheses/brackets (already in the original regex)
+                #    re.escape(string.punctuation) ensures all punctuation characters are treated literally.
+                #    We combine this with the other character classes.
+                punctuation_pattern = re.escape(string.punctuation)
+                # The pattern now explicitly lists characters to remove.
+                # Note: The original regex included [+\-*/=<>(){}[\]] which are mostly covered by string.punctuation
+                # but it's safer to explicitly add them if there's any doubt.
+                # For simplicity and to fix the \p{P} issue, we'll use string.punctuation.
+                # If you need to be very specific about math symbols, you can add them back.
+                # For this fix, we'll focus on replacing \p{P} with string.punctuation.
+                
+                # The new regex will remove:
+                # - a-zA-Z (English letters)
+                # - 0-9 (numbers)
+                # - All characters in string.punctuation (e.g., !, ", #, $, %, &, ', (, ), *, +, ,, -, ., /, :, ;, <, =, >, ?, @, [, \, ], ^, _, `, {, |, }, ~)
+                # We need to be careful with characters like - in a character set, it needs to be at the start or end, or escaped.
+                # Let's build a robust character set.
+                
+                # Characters to remove:
+                # - English letters: a-zA-Z
+                # - Numbers: 0-9
+                # - Punctuation: using string.punctuation
+                # - Specific math symbols/parentheses: +-*/=<>(){}[] (these are largely covered by string.punctuation)
+                
+                # A more robust pattern for the standard re module:
+                # We create a character class that includes letters, numbers, and escaped punctuation.
+                # The `re.escape` function is crucial here to ensure characters like `.` or `*` in `string.punctuation`
+                # are treated as literal characters in the regex, not special regex operators.
+                chars_to_remove_pattern = f'[a-zA-Z0-9{re.escape(string.punctuation)}]'
+                
+                cleaned_line = re.sub(chars_to_remove_pattern, ' ', line, flags=re.UNICODE)
 
                 # Replace multiple spaces with a single space and strip leading/trailing spaces
                 cleaned_line = re.sub(r'\s+', ' ', cleaned_line).strip()
@@ -49,25 +80,16 @@ def clean_text_file(input_filepath, output_filepath):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-# --- How to use the script ---
+# --- How to use the script with command-line arguments ---
 if __name__ == "__main__":
-    # IMPORTANT: Replace 'your_input_file.txt' with the actual path to your file.
-    # For example: 'data/scraped_text.txt' or 'C:\\Users\\YourUser\\Documents\\my_scraped_data.txt'
-    input_file_name = 'C:\Users\wilso\Documents\code\SCRAPEKING\pokeking_scraped_data_by_x\extracted_pokeking_values.txt'
+    parser = argparse.ArgumentParser(description="Clean a text file by removing specific characters and extracting unique values.")
+    parser.add_argument("input_file", help="The path to the input .txt file.")
+    parser.add_argument("output_file", help="The path where the cleaned .txt file will be saved.")
 
-    # The output file will be created in the same directory as the script,
-    # or you can specify a full path like 'C:\\cleaned_output.txt'
-    output_file_name = 'C:\Users\wilso\Documents\code\SCRAPEKING\step4_find_untranslated_values\new_values_to_check.txt'
+    args = parser.parse_args()
 
-    # Get the directory of the current script
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-
-    # Construct full paths
-    input_path = os.path.join(script_dir, input_file_name)
-    output_path = os.path.join(script_dir, output_file_name)
-
-    # You can uncomment the line below and replace with your specific paths if needed
-    # input_path = "path/to/your/scraped_data.txt"
-    # output_path = "path/to/save/cleaned_data.txt"
+    # The paths are now taken directly from the command-line arguments
+    input_path = args.input_file
+    output_path = args.output_file
 
     clean_text_file(input_path, output_path)

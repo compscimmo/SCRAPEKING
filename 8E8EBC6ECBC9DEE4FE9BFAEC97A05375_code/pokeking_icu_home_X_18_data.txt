@@ -1,0 +1,778 @@
+========== Data from page 18/11 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法
+查看全部队伍
+   Alert Text: 戏法
+========== Data from page 18/11 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 地震
+red_bold_text: 刺甲4
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/11 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 陀螺球
+red_bold_text: 切鬼灯
+warning_badge_text: N/A
+primary_trick_text: N/A
+  --- Nested Items (3) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 对位烈焰猴/暴飞龙
+       nested_header_operate_text (collapsed): 戏法，锁雷拳/地震，地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 对位洛托姆
+       nested_header_operate_text (collapsed): 地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-3:
+       nested_header_label_text (collapsed): 对位路卡
+       nested_header_operate_text (collapsed): 戏法锁暗影球，混混2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+========== Data from page 18/11 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 恰雷姆
+red_bold_text: 鬼灯戏法换道具，混混4或2+攻击药。/全部围攻杀
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/11 ==========
+--- Card Entry (Card 4) ---
+pokemon_name: 双斧战龙
+red_bold_text: 撒钉，鬼灯4+0。/放火推队
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/11 ==========
+--- Card Entry (Card 5) ---
+pokemon_name: 洛托姆
+red_bold_text: 鬼灯4+0
+warning_badge_text: 火放推队
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/11 ==========
+--- Card Entry (Card 6) ---
+pokemon_name: 路卡利欧
+red_bold_text: 鬼灯戏法换道具，混混2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/11 ==========
+--- Card Entry (Card 7) ---
+pokemon_name: 梦歌仙人掌
+red_bold_text: 切鬼灯，不走/对位青铜钟，放火点杀，看出谁👇🏻
+warning_badge_text: N/A
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 出洛托姆
+       nested_header_operate_text (collapsed): 地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 出鸭嘴炎兽
+       nested_header_operate_text (collapsed): 切地鼠切鬼灯戏法，锁十万，地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+
+========== Data from page 18/14 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法
+查看全部队伍
+   Alert Text: 戏法
+========== Data from page 18/14 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 剩饭
+red_bold_text: 鬼灯觉醒力量点，出青铜钟，刺甲4
+warning_badge_text: 快龙不走，继续点
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/14 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 达人带
+red_bold_text: 切鬼灯暗影球点，出水牛，刺甲2+速度药。/两发冲浪杀钢蛇
+warning_badge_text: 快龙不走，继续点
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 18/15 ==========
+--- Alert Box Data ---
+   Alert Text: 切鬼灯戏法，锁暗影球，混混2
+围攻杀双斧
+查看全部队伍
+   Alert Text: 切鬼灯戏法，锁暗影球，混混2
+   Alert Text: 围攻杀双斧
+
+========== Data from page 18/26 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法
+查看全部队伍
+   Alert Text: 戏法
+========== Data from page 18/26 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 地震
+red_bold_text: 刺甲4。/冰杀鸭嘴
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/26 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 水牛
+red_bold_text: 刺甲2+速度药
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 18/39 ==========
+--- Alert Box Data ---
+   Alert Text: 看是否威吓
+查看全部队伍
+   Alert Text: 看是否威吓
+========== Data from page 18/39 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 威吓
+red_bold_text: 切鬼灯
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 不走
+       nested_header_operate_text (collapsed): 觉醒力量点杀，出大钢蛇，切刺甲切巨金戏法，锁地震，刺甲4。/冰杀鸭嘴
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): 追速可不切刺甲联防地震
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 对位大钢蛇
+       nested_header_operate_text (collapsed): 戏法锁地震，刺甲4。/冰杀鸭嘴
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+========== Data from page 18/39 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 非威吓
+red_bold_text: 戏法
+warning_badge_text: N/A
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 大钢蛇
+       nested_header_operate_text (collapsed): 刺甲4。/冰杀鸭嘴
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 大字爆炎
+       nested_header_operate_text (collapsed): 鬼灯4+0。/放火推队
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+
+========== Data from page 18/41 ==========
+--- Alert Box Data ---
+   Alert Text: 切鬼灯戏法，锁雷电拳，地鼠4+2
+查看全部队伍
+   Alert Text: 切鬼灯戏法，锁雷电拳，地鼠4+2
+
+========== Data from page 18/47 ==========
+--- Alert Box Data ---
+   Alert Text: 自选
+查看全部队伍
+   Alert Text: 自选
+========== Data from page 18/47 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 追速
+red_bold_text: 鬼灯4+0。/放火推队
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/47 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 省钱
+red_bold_text: 鬼灯戏法换道具，地鼠4+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 18/62 ==========
+--- Alert Box Data ---
+   Alert Text: 切鬼灯戏法，锁河童，青蛙6+2。/麻痹要解
+两发地震杀河童
+查看全部队伍
+   Alert Text: 切鬼灯戏法，锁河童，青蛙6+2。/麻痹要解
+   Alert Text: 两发地震杀河童
+
+========== Data from page 18/66 ==========
+--- Alert Box Data ---
+   Alert Text: 撒钉，看炎爆是否命中
+查看全部队伍
+   Alert Text: 撒钉，看炎爆是否命中
+========== Data from page 18/66 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 命中，秒杀巨金
+red_bold_text: 鬼灯戏法锁炎帝，地鼠4+2
+warning_badge_text: 跑喷火龙？地震没pp了吧
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/66 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 未命中
+red_bold_text: 切鬼灯，看是否引火
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 引火成功
+       nested_header_operate_text (collapsed): 磕一瓶特攻药。/放火推队
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 引火失败
+       nested_header_operate_text (collapsed): 戏法锁炎帝，地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): 跑喷火龙？地震没pp了吧
+     --------------------
+------------------------------
+
+========== Data from page 18/73 ==========
+--- Alert Box Data ---
+   Alert Text: 切鬼灯戏法，锁疯狂伏特，地鼠4+2
+查看全部队伍
+   Alert Text: 切鬼灯戏法，锁疯狂伏特，地鼠4+2
+
+========== Data from page 18/76 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法锁近身战，撒钉，鬼灯4+0
+火放推队
+查看全部队伍
+   Alert Text: 戏法锁近身战，撒钉，鬼灯4+0
+   Alert Text: 火放推队
+========== Data from page 18/76 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 黑鬼撒钉失败
+red_bold_text: 鬼灯暗影球点杀，出路卡，切混混切鬼灯戏法，锁暗影球，混混3
+warning_badge_text: 待测
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 18/85 ==========
+--- Alert Box Data ---
+   Alert Text: 鬼灯4(特攻)+0
+火放推队
+查看全部队伍
+   Alert Text: 鬼灯4(特攻)+0
+   Alert Text: 火放推队
+
+========== Data from page 18/91 ==========
+--- Alert Box Data ---
+   Alert Text: 切鬼灯
+查看全部队伍
+   Alert Text: 切鬼灯
+========== Data from page 18/91 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 大字爆炎
+red_bold_text: 戏法
+warning_badge_text: N/A
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 精神冲击
+       nested_header_operate_text (collapsed): 混混4或2+攻击药。/围攻杀黑狗
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 日光束
+       nested_header_operate_text (collapsed): 点杀，出河童，切巨金戏法，锁热水，青蛙6+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+========== Data from page 18/91 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 对位青铜钟
+red_bold_text: 戏法锁精冲，混混3。/围攻杀黑狗
+warning_badge_text: 青铜钟要打两下
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 18/96 ==========
+--- Alert Box Data ---
+   Alert Text: 切鬼灯，不走/对位青铜钟，放火点杀，看出谁
+别看成沙铃仙人掌
+查看全部队伍
+   Alert Text: 切鬼灯，不走/对位青铜钟，放火点杀，看出谁
+   Alert Text: 别看成沙铃仙人掌
+========== Data from page 18/96 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 出洛托姆
+red_bold_text: 地鼠4+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/96 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 出鸭嘴炎兽
+red_bold_text: 切地鼠切鬼灯戏法，锁十万伏特，地鼠4+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 18/140 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法
+查看全部队伍
+   Alert Text: 戏法
+========== Data from page 18/140 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 寄生种子
+red_bold_text: 切鬼灯
+warning_badge_text: N/A
+primary_trick_text: N/A
+  --- Nested Items (3) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 对位青铜钟
+       nested_header_operate_text (collapsed): 戏法锁精冲，混混2。/全部围攻
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 对位大钢蛇
+       nested_header_operate_text (collapsed): 戏法锁地震，刺甲4。/冰杀鸭嘴
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-3:
+       nested_header_label_text (collapsed): 对位恰雷姆
+       nested_header_operate_text (collapsed): 混混4或2+攻击药。/全部围攻
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+========== Data from page 18/140 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 热水
+red_bold_text: 青蛙6+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/140 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 青铜钟
+red_bold_text: 切鬼灯对位恰雷姆，混混4或2+攻击药。/全部围攻
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/140 ==========
+--- Card Entry (Card 4) ---
+pokemon_name: 大钢蛇
+red_bold_text: 刺甲4。/冰杀鸭嘴
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 18/147 ==========
+--- Alert Box Data ---
+   Alert Text: 点雷电拳
+随风球不走，继续点
+查看全部队伍
+   Alert Text: 点雷电拳
+   Alert Text: 随风球不走，继续点
+========== Data from page 18/147 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 出洛托姆
+red_bold_text: 鬼灯4+0。/放火推队
+warning_badge_text: 出洛托姆时，若巨金血量在30%以下，强化改用地鼠4+2
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/147 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 出青铜钟
+red_bold_text: 切鬼灯对位洛托姆，地鼠4+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/147 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 出仙人掌
+red_bold_text: 鬼灯放火点杀，看出谁👇🏻
+warning_badge_text: N/A
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 出洛托姆
+       nested_header_operate_text (collapsed): 地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 出鸭嘴炎兽
+       nested_header_operate_text (collapsed): 切地鼠切鬼灯戏法，锁十万，地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+
+========== Data from page 18/157 ==========
+--- Alert Box Data ---
+   Alert Text: 切鬼灯戏法，锁尖石，自选
+查看全部队伍
+   Alert Text: 切鬼灯戏法，锁尖石，自选
+========== Data from page 18/157 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 稳健
+red_bold_text: 地鼠补钉4+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/157 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 不怕陀螺球ct
+red_bold_text: 混混2。/围攻杀仙人掌
+warning_badge_text: 炎帝比混混+2快
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 18/161 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法
+查看全部队伍
+   Alert Text: 戏法
+========== Data from page 18/161 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 吸取拳
+red_bold_text: 撒钉，鬼灯4+0。/放火推队
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/161 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 大钢蛇
+red_bold_text: 刺甲4。/冰杀鸭嘴炎兽
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 18/165 ==========
+--- Alert Box Data ---
+   Alert Text: 切鬼灯戏法
+查看全部队伍
+   Alert Text: 切鬼灯戏法
+========== Data from page 18/165 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 围巾
+red_bold_text: 混混4或2+攻击药。/全部围攻
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/165 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 命玉
+red_bold_text: 混混2。/围攻+吸取杀大钢蛇。围攻杀仙人掌
+warning_badge_text: 混混被ct打死，巨金戏法锁地震，刺甲4。/冰杀鸭嘴
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 18/170 ==========
+--- Alert Box Data ---
+   Alert Text: 撒钉，刺甲4
+查看全部队伍
+   Alert Text: 撒钉，刺甲4
+
+========== Data from page 18/192 ==========
+--- Alert Box Data ---
+   Alert Text: 切鬼灯(吃炎爆)，戏法锁地震，地鼠4+2
+查看全部队伍
+   Alert Text: 切鬼灯(吃炎爆)，戏法锁地震，地鼠4+2
+
+========== Data from page 18/199 ==========
+--- Alert Box Data ---
+   Alert Text: 切鬼灯
+查看全部队伍
+   Alert Text: 切鬼灯
+========== Data from page 18/199 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 鸭嘴不走
+red_bold_text: 戏法
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (5) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 命玉+十万伏特(觉醒力量)
+       nested_header_operate_text (collapsed): 地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 达人带+十万伏特
+       nested_header_operate_text (collapsed): 地鼠补钉4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): 地震杀河童
+     --------------------
+     Nested Item 0-3:
+       nested_header_label_text (collapsed): 河童
+       nested_header_operate_text (collapsed): 青蛙6+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): 黑狗无危险
+     --------------------
+     Nested Item 0-4:
+       nested_header_label_text (collapsed): 水牛
+       nested_header_operate_text (collapsed): 刺甲2+速度药
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): 冲浪杀钢蛇
+     --------------------
+     Nested Item 0-5:
+       nested_header_label_text (collapsed): 快龙
+       nested_header_operate_text (collapsed): 切巨金切鬼灯，对位火焰鸡，地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+========== Data from page 18/199 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 对位青铜钟
+red_bold_text: 放火点杀，看出谁👇🏻
+warning_badge_text: N/A
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 出洛托姆
+       nested_header_operate_text (collapsed): 地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 出鸭嘴炎兽
+       nested_header_operate_text (collapsed): 切地鼠切鬼灯戏法，锁十万伏特，地鼠4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+========== Data from page 18/199 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 对位大钢蛇
+red_bold_text: 戏法锁地震，刺甲4。/冰杀鸭嘴
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 18/200 ==========
+--- Alert Box Data ---
+   Alert Text: 切鬼灯
+查看全部队伍
+   Alert Text: 切鬼灯
+========== Data from page 18/200 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 烈焰马不走
+red_bold_text: 戏法
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 疯狂伏特/直冲钻
+       nested_header_operate_text (collapsed): 地鼠补钉4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): 地震杀河童
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 河童
+       nested_header_operate_text (collapsed): 切巨金撒钉，青蛙6+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): 跑大钢蛇，切刺甲切巨金戏法，锁地震，刺甲4
+     --------------------
+------------------------------
+========== Data from page 18/200 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 对位河童
+red_bold_text: 切巨金戏法，锁热水，撒钉，青蛙6+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/200 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 对位大钢蛇
+red_bold_text: 戏法锁地震，刺甲4。/冰杀鸭嘴
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 18/201 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法
+别看成梦歌仙人掌
+查看全部队伍
+   Alert Text: 戏法
+   Alert Text: 别看成梦歌仙人掌
+========== Data from page 18/201 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 火焰鸡
+red_bold_text: 鬼灯4+0+回满血。/暗影球推队
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/201 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 大钢蛇/青铜钟
+red_bold_text: 刺甲4。/冰杀鸭嘴
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/201 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 水牛
+red_bold_text: 刺甲2+速度药
+warning_badge_text: 跑钢蛇，鬼灯戏法锁地震，刺甲4
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 18/202 ==========
+--- Alert Box Data ---
+   Alert Text: 戏法
+查看全部队伍
+   Alert Text: 戏法
+========== Data from page 18/202 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 大钢蛇
+red_bold_text: 刺甲4
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/202 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 飞膝踢/雷电拳
+red_bold_text: 切鬼灯
+warning_badge_text: N/A
+primary_trick_text: N/A
+  --- Nested Items (3) ---
+     Nested Item 0-1:
+       nested_header_label_text (collapsed): 对位大钢蛇
+       nested_header_operate_text (collapsed): 戏法锁地震，刺甲4
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-2:
+       nested_header_label_text (collapsed): 飞膝踢
+       nested_header_operate_text (collapsed): 戏法换道具，地鼠补钉4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+     Nested Item 0-3:
+       nested_header_label_text (collapsed): 雷电拳
+       nested_header_operate_text (collapsed): 地鼠补钉4+2
+       nested_trick_text (expanded): N/A
+       nested_body_label_text (expanded): N/A
+       nested_body_operate_text (expanded): N/A
+       nested_warning_badge_text (expanded): N/A
+     --------------------
+------------------------------
+
+========== Data from page 18/203 ==========
+--- Alert Box Data ---
+   Alert Text: 切鬼灯
+查看全部队伍
+   Alert Text: 切鬼灯
+========== Data from page 18/203 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 喷火
+red_bold_text: 点一发觉醒力量压血，切巨金对位大钢蛇，戏法锁地震，刺甲4。/冰杀鸭嘴
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/203 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 对位大钢蛇
+red_bold_text: 戏法锁地震，刺甲4。/冰杀鸭嘴
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 18/214 ==========
+--- Alert Box Data ---
+   Alert Text: 自选
+查看全部队伍
+   Alert Text: 自选
+========== Data from page 18/214 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 追速
+red_bold_text: 鬼灯4+0。/暗影球推队
+warning_badge_text: 龙爪打不死满血鬼灯
+primary_trick_text: N/A
+------------------------------
+========== Data from page 18/214 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 省钱
+red_bold_text: 鬼灯戏法换道具，地鼠4+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+

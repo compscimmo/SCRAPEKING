@@ -1,4 +1,12 @@
+# cmd prompt ex:
+# python step4_filter_untranslated_values.py 
+# "C:\Users\wilso\Documents\code\SCRAPEKING\step4_find_untranslated_values\dictionary.json" 
+# "C:\Users\wilso\Documents\code\SCRAPEKING\step4_find_untranslated_values\new_values_to_check.txt" 
+# "C:\Users\wilso\Documents\code\SCRAPEKING\step4_find_untranslated_values\untranslated_lines.txt"
+
 import json
+import argparse # Import the argparse module
+import os # Keep os for potential path manipulation, though argparse handles much of it now
 
 def get_untranslated_new_values_substring_match(dictionary_path, new_values_path, output_path):
     """
@@ -59,12 +67,18 @@ def get_untranslated_new_values_substring_match(dictionary_path, new_values_path
     except IOError:
         print(f"Error: Could not write to output file '{output_path}'.")
 
-# --- How to Use ---
+# --- How to Use from Command Prompt ---
 if __name__ == "__main__":
-    # IMPORTANT: Replace 'your_dictionary.json', 'your_new_values.txt', and 'untranslated_output.txt'
-    # with the actual names/paths of your files.
-    dictionary_file = 'dictionary.json'
-    new_text_file = 'new_values_to_check.txt' # Renamed for clarity
-    output_new_file = 'untranslated_lines_with_substrings.txt'
+    parser = argparse.ArgumentParser(description="Find untranslated values in a text file by comparing against a JSON dictionary.")
+    parser.add_argument("dictionary_file", help="The path to your dictionary.json file.")
+    parser.add_argument("new_values_file", help="The path to your new text file with values to check.")
+    parser.add_argument("output_file", help="The path where the new file with untranslated values will be saved.")
 
-    get_untranslated_new_values_substring_match(dictionary_file, new_text_file, output_new_file)
+    args = parser.parse_args()
+
+    # The paths are now taken directly from the command-line arguments
+    dictionary_path = args.dictionary_file
+    new_text_file_path = args.new_values_file
+    output_new_file_path = args.output_file
+
+    get_untranslated_new_values_substring_match(dictionary_path, new_text_file_path, output_new_file_path)
