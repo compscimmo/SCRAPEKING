@@ -2,66 +2,11 @@ import os
 import re
 import traceback
 import argparse
-import string
-import unicodedata
-
-def clean_text(text):
-    """
-    Removes English letters, punctuation, numbers, math symbols, and emojis.
-    Replaces removed characters with a space.
-    """
-    cleaned_chars = []
-    for char in text:
-        # Remove English letters
-        if 'a' <= char <= 'z' or 'A' <= char <= 'Z':
-            cleaned_chars.append(' ')
-            continue
-
-        # Remove punctuation
-        if char in string.punctuation:
-            cleaned_chars.append(' ')
-            continue
-
-        # Remove numbers
-        if char.isdigit():
-            cleaned_chars.append(' ')
-            continue
-
-        # Remove math symbols
-        # This covers a broad range of unicode math symbols
-        if unicodedata.category(char).startswith('Sm') or \
-           unicodedata.category(char).startswith('N'): # 'N' for Number, covers various number forms
-            cleaned_chars.append(' ')
-            continue
-
-        # Remove emojis (common unicode ranges and categories for emojis)
-        # This is a heuristic and might not catch all emojis, but covers many.
-        if 0x1F600 <= ord(char) <= 0x1F64F or \
-           0x1F300 <= ord(char) <= 0x1F5FF or \
-           0x1F680 <= ord(char) <= 0x1F6FF or \
-           0x1F1E0 <= ord(char) <= 0x1F1FF or \
-           0x2600 <= ord(char) <= 0x26FF or \
-           0x2700 <= ord(char) <= 0x27BF:
-            cleaned_chars.append(' ')
-            continue
-        
-        # Specific examples you provided
-        if char in ['【', '】', '，', '（', '）', '？', '+', '%', '.', '/', '👇🏻', '👇', '①', '②', '👆🏻', '🐭', '💡', '。', '⚠️', '🐸', '!', '：', '↓', '④', '③']:
-            cleaned_chars.append(' ')
-            continue
-
-        cleaned_chars.append(char)
-
-    # Join and then split by spaces to handle multiple spaces from removals
-    # Then join with a single space to normalize
-    return ' '.join("".join(cleaned_chars).split())
-
 
 def extract_and_format_data(input_dir, output_file_path):
     """
     Reads through all .txt files in the specified input directory,
     extracts specific data values, filters out 'N/A' entries,
-    removes English, punctuation, numbers, math symbols, and emojis,
     and stores them in a set to automatically handle duplicates.
     Finally, it writes the unique, space-separated values to a single output file.
     """
@@ -104,21 +49,15 @@ def extract_and_format_data(input_dir, output_file_path):
                                 value = match.group(1).strip()
                                 # Only add values that are not "N/A"
                                 if value and value.upper() != 'N/A':
-                                    cleaned_value = clean_text(value)
-                                    # Split the cleaned value by spaces and add each part to the set
-                                    # This handles the "make a column for every space separated value" requirement
-                                    if cleaned_value: # Only add if something remains after cleaning
-                                        for item in cleaned_value.split():
-                                            if item: # Ensure no empty strings are added
-                                                all_extracted_values.add(item)
+                                    all_extracted_values.update(value.split())
                                 break
 
             except Exception as e:
                 print(f"    Error processing file {filename}: {e}")
                 traceback.print_exc()
 
-    # Join all collected unique values with a newline to put each on its own "column" (line)
-    final_output_string = "\n".join(sorted(list(all_extracted_values)))
+    # Join all collected unique values with a single space.
+    final_output_string = " ".join(sorted(list(all_extracted_values)))
 
     # Create the output directory if it doesn't exist
     output_dir = os.path.dirname(output_file_path)
@@ -142,7 +81,7 @@ def extract_and_format_data(input_dir, output_file_path):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="Extracts specific text values from Pokeking scraped data files and saves unique, cleaned values to an output file."
+        description="Extracts specific text values from Pokeking scraped data files and saves unique values to an output file."
     )
 
     parser.add_argument(
