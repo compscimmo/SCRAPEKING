@@ -1,0 +1,741 @@
+========== Data from page 6/2 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 6/2 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 龙火果
+red_bold_text: 地龙22
+warning_badge_text: 龙杀巨牙鲨 岩杀暴鲤龙
+primary_trick_text: N/A
+------------------------------
+========== Data from page 6/2 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 气球【磁力】
+red_bold_text: 十万送了，地龙22
+warning_badge_text: 龙杀灾兽 岩杀暴鲤龙
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 6/9 ==========
+--- Alert Box Data ---
+  Alert Text: 切巨金戏法锁斗，灯22
+鬼球乱一铁掌
+查看全部队伍
+  Alert Text: 切巨金戏法锁斗，灯22
+  Alert Text: 鬼球乱一铁掌
+
+========== Data from page 6/29 ==========
+--- Alert Box Data ---
+  Alert Text: 灯32
+查看全部队伍
+  Alert Text: 灯32
+
+========== Data from page 6/33 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 6/33 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 地震
+red_bold_text: 战龙21
+warning_badge_text: 龙杀猎斑鱼
+primary_trick_text: N/A
+------------------------------
+========== Data from page 6/33 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 地龙
+red_bold_text: 地龙20
+warning_badge_text: 龙杀猎斑鱼 岩杀暴鲤龙
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 6/36 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法锁火，灯22
+鬼杀毒蛙
+查看全部队伍
+  Alert Text: 戏法锁火，灯22
+  Alert Text: 鬼杀毒蛙
+
+========== Data from page 6/37 ==========
+--- Alert Box Data ---
+  Alert Text: 切巨金对位铁掌，戏法锁斗，灯22
+鬼球乱一铁掌
+查看全部队伍
+  Alert Text: 切巨金对位铁掌，戏法锁斗，灯22
+  Alert Text: 鬼球乱一铁掌
+
+========== Data from page 6/39 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 6/39 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 赖场
+red_bold_text: 看技能
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 大字爆炎
+      nested_header_operate_text (collapsed): 灯32
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 鬼杀铁掌
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 喷射火焰
+      nested_header_operate_text (collapsed): 灯42
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+------------------------------
+========== Data from page 6/39 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 铁掌
+red_bold_text: 切恶龙
+warning_badge_text: N/A
+primary_trick_text: N/A
+  --- Nested Items (3) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 不走
+      nested_header_operate_text (collapsed): 恶龙42钉
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 暴飞龙
+      nested_header_operate_text (collapsed): 切巨金戏法锁火，灯32
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+    Nested Item 0-3:
+      nested_header_label_text (collapsed): 天狗
+      nested_header_operate_text (collapsed): 切巨金戏法锁斗，灯32
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+------------------------------
+========== Data from page 6/39 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 伦琴猫
+red_bold_text: 地龙52
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 6/46 ==========
+--- Alert Box Data ---
+  Alert Text: 十万点杀
+没电死+大字火，战龙21，龙杀巨牙鲨
+查看全部队伍
+  Alert Text: 十万点杀
+  Alert Text: 没电死+大字火，战龙21，龙杀巨牙鲨
+========== Data from page 6/46 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 泥偶
+red_bold_text: 切巨金戏法锁暗影拳，恶龙22钉
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 6/46 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 电兽
+red_bold_text: 切巨金戏法
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 火放
+      nested_header_operate_text (collapsed): 灯22
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 鬼杀毒蛙
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 十万
+      nested_header_operate_text (collapsed): 地龙32
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 龙杀毒蛙 地杀花岩怪
+    --------------------
+------------------------------
+========== Data from page 6/46 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 狒狒
+red_bold_text: 灯22
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 6/46 ==========
+--- Card Entry (Card 4) ---
+pokemon_name: 地鼠
+red_bold_text: 切地龙切星，戏法锁地，战龙21
+warning_badge_text: 龙杀蜈蚣
+primary_trick_text: N/A
+------------------------------
+========== Data from page 6/46 ==========
+--- Card Entry (Card 5) ---
+pokemon_name: 地龙
+red_bold_text: 切地龙切星，戏法
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 番荔果
+      nested_header_operate_text (collapsed): 战龙21
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 龙杀巨牙鲨 地震乱一地龙
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 命玉
+      nested_header_operate_text (collapsed): 地龙20
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 龙杀猎斑鱼
+    --------------------
+------------------------------
+
+========== Data from page 6/48 ==========
+--- Alert Box Data ---
+  Alert Text: 切巨金对位铁掌，戏法锁斗，灯22
+鬼球乱一铁掌
+查看全部队伍
+  Alert Text: 切巨金对位铁掌，戏法锁斗，灯22
+  Alert Text: 鬼球乱一铁掌
+
+========== Data from page 6/60 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法锁电兽，灯22
+鬼杀毒蛙
+查看全部队伍
+  Alert Text: 戏法锁电兽，灯22
+  Alert Text: 鬼杀毒蛙
+
+========== Data from page 6/61 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法锁地鼠，切巨金戏法锁地震，地龙32
+龙杀灾兽/猎斑鱼 岩杀秃鹰
+查看全部队伍
+  Alert Text: 戏法锁地鼠，切巨金戏法锁地震，地龙32
+  Alert Text: 龙杀灾兽/猎斑鱼 岩杀秃鹰
+
+========== Data from page 6/67 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 6/67 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 咬碎
+red_bold_text: 切巨金
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (3) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 不走
+      nested_header_operate_text (collapsed): 吃守护，恶龙42
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 血高于35%
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 螳螂
+      nested_header_operate_text (collapsed): 戏法锁斗，灯42
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+    Nested Item 0-3:
+      nested_header_label_text (collapsed): 伦琴猫
+      nested_header_operate_text (collapsed): 戏法锁电，地龙52
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+------------------------------
+========== Data from page 6/67 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 伦琴猫
+red_bold_text: 地龙52
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 6/70 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法锁伦琴猫，地龙52
+查看全部队伍
+  Alert Text: 戏法锁伦琴猫，地龙52
+
+========== Data from page 6/75 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 6/75 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 番荔果
+red_bold_text: 战龙21
+warning_badge_text: 龙杀巨牙鲨 地震乱一地龙
+primary_trick_text: N/A
+------------------------------
+========== Data from page 6/75 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 命玉
+red_bold_text: 地龙20
+warning_badge_text: 龙杀猎斑鱼 岩杀暴鲤龙
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 6/92 ==========
+--- Alert Box Data ---
+  Alert Text: 吃小药
+查看全部队伍
+  Alert Text: 吃小药
+========== Data from page 6/92 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 铁掌
+red_bold_text: 切巨金戏法锁斗，灯22
+warning_badge_text: 鬼球乱一铁掌
+primary_trick_text: N/A
+------------------------------
+========== Data from page 6/92 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 地龙
+red_bold_text: 戏法锁地，战龙21
+warning_badge_text: 龙杀巨牙鲨 地震乱一地龙
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 6/93 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 6/93 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 赖场
+red_bold_text: 钉
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (4) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 近战
+      nested_header_operate_text (collapsed): 灯42
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 鬼杀铁掌
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 暗袭
+      nested_header_operate_text (collapsed): 钉送了，恶龙42
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 1队超幸运，吃防御无用，注意回血
+    --------------------
+    Nested Item 0-3:
+      nested_header_label_text (collapsed): 伦琴猫
+      nested_header_operate_text (collapsed): 切巨金戏法锁电，地龙42
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+    Nested Item 0-4:
+      nested_header_label_text (collapsed): 铁掌
+      nested_header_operate_text (collapsed): 切巨金戏法锁斗，灯22
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 鬼球乱一铁掌
+    --------------------
+------------------------------
+========== Data from page 6/93 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 电猫
+red_bold_text: 地龙52
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 6/93 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 地鼠
+red_bold_text: 看道具
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 气球
+      nested_header_operate_text (collapsed): 切巨金戏法锁地，地龙32
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 龙杀灾兽/猎斑鱼 岩杀秃鹰
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 披带
+      nested_header_operate_text (collapsed): 战龙21
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 龙杀蜈蚣
+    --------------------
+------------------------------
+========== Data from page 6/93 ==========
+--- Card Entry (Card 4) ---
+pokemon_name: 地龙
+red_bold_text: 看道具
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 番荔果
+      nested_header_operate_text (collapsed): 战龙21
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 龙杀巨牙鲨 地震乱一地龙
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 命玉
+      nested_header_operate_text (collapsed): 地龙20
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 龙杀猎斑鱼 岩杀暴鲤龙
+    --------------------
+------------------------------
+========== Data from page 6/93 ==========
+--- Card Entry (Card 5) ---
+pokemon_name: 铁掌
+red_bold_text: 切恶龙
+warning_badge_text: N/A
+primary_trick_text: N/A
+  --- Nested Items (3) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 不走
+      nested_header_operate_text (collapsed): 恶龙42钉
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 暴飞龙
+      nested_header_operate_text (collapsed): 切巨金戏法锁火，灯32
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+    Nested Item 0-3:
+      nested_header_label_text (collapsed): 天狗
+      nested_header_operate_text (collapsed): 切巨金戏法锁斗，灯32
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+------------------------------
+========== Data from page 6/93 ==========
+--- Card Entry (Card 6) ---
+pokemon_name: 电兽
+red_bold_text: 灯22
+warning_badge_text: 鬼杀毒蛙
+primary_trick_text: N/A
+------------------------------
+========== Data from page 6/93 ==========
+--- Card Entry (Card 7) ---
+pokemon_name: 狒狒
+red_bold_text: 灯32
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 6/93 ==========
+--- Card Entry (Card 8) ---
+pokemon_name: 泥偶
+red_bold_text: 灯32
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 6/94 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法锁伦琴猫，地龙52
+查看队伍 2
+  Alert Text: 戏法锁伦琴猫，地龙52
+
+========== Data from page 6/95 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 6/95 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 赖场
+red_bold_text: 看道具
+warning_badge_text: N/A
+primary_trick_text: N/A
+  --- Nested Items (3) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 剩饭+十万
+      nested_header_operate_text (collapsed): 地龙52
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 命玉+十万
+      nested_header_operate_text (collapsed): 自选
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 两下地鼠 龙杀蜈蚣
+    --- Nested Items (2) ---
+      Nested Item 1-1:
+        nested_header_label_text (collapsed): 速
+        nested_header_operate_text (collapsed): 地龙32
+        nested_trick_text (expanded): N/A
+        nested_body_label_text (expanded): N/A
+        nested_body_operate_text (expanded): N/A
+        nested_warning_badge_text (expanded): 两下地鼠 龙杀蜈蚣
+      --------------------
+      Nested Item 1-2:
+        nested_header_label_text (collapsed): 省
+        nested_header_operate_text (collapsed): 地龙52
+        nested_trick_text (expanded): N/A
+        nested_body_label_text (expanded): N/A
+        nested_body_operate_text (expanded): N/A
+        nested_warning_badge_text (expanded): 龙杀地鼠 蜈蚣
+      --------------------
+    --------------------
+    Nested Item 0-3:
+      nested_header_label_text (collapsed): 火珠+蛮力
+      nested_header_operate_text (collapsed): 自选
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 龙杀猎斑鱼 岩杀暴鲤龙
+    --- Nested Items (2) ---
+      Nested Item 1-1:
+        nested_header_label_text (collapsed): 速
+        nested_header_operate_text (collapsed): 地龙22
+        nested_trick_text (expanded): N/A
+        nested_body_label_text (expanded): N/A
+        nested_body_operate_text (expanded): N/A
+        nested_warning_badge_text (expanded): 龙杀猎斑鱼 岩杀暴鲤龙
+      --------------------
+      Nested Item 1-2:
+        nested_header_label_text (collapsed): 稳
+        nested_header_operate_text (collapsed): 钉，巨金晴天，灯22
+        nested_trick_text (expanded): N/A
+        nested_body_label_text (expanded): N/A
+        nested_body_operate_text (expanded): N/A
+        nested_warning_badge_text (expanded): N/A
+      --------------------
+    --------------------
+------------------------------
+========== Data from page 6/95 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 地龙
+red_bold_text: 地龙20
+warning_badge_text: 龙杀猎斑鱼 岩杀暴鲤龙
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 6/96 ==========
+--- Alert Box Data ---
+  Alert Text: 【老打法】戏法锁吸取，钉
+【测试极速打法，钉，灯22（双药）】
+查看全部队伍
+  Alert Text: 【老打法】戏法锁吸取，钉
+  Alert Text: 【测试极速打法，钉，灯22（双药）】
+========== Data from page 6/96 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 狒狒
+red_bold_text: 灯22
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 6/96 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 泥偶
+red_bold_text: 切巨金戏法锁暗影拳，恶龙22
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 6/97 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法锁火，灯32
+查看全部队伍
+  Alert Text: 戏法锁火，灯32
+
+========== Data from page 6/98 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法锁电兽，灯22
+鬼杀毒蛙
+查看全部队伍
+  Alert Text: 戏法锁电兽，灯22
+  Alert Text: 鬼杀毒蛙
+
+========== Data from page 6/99 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 6/99 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 地鼠
+red_bold_text: 切巨金戏法锁地，地龙32
+warning_badge_text: 龙杀灾兽/猎斑鱼，岩杀秃鹰
+primary_trick_text: N/A
+------------------------------
+========== Data from page 6/99 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 电兽
+red_bold_text: 灯22
+warning_badge_text: 鬼杀毒蛙
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 6/100 ==========
+--- Alert Box Data ---
+  Alert Text: 切灯
+查看全部队伍
+  Alert Text: 切灯
+========== Data from page 6/100 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 赖场
+red_bold_text: 切星吃尖石，戏法锁地鼠，切巨金戏法锁地震，地龙32
+warning_badge_text: 龙杀灾兽/猎斑鱼 岩杀秃鹰
+primary_trick_text: N/A
+------------------------------
+========== Data from page 6/100 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 地鼠
+red_bold_text: 切地龙切巨金自爆，星星戏法锁地，地龙32
+warning_badge_text: 龙杀灾兽/猎斑鱼 岩杀秃鹰
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 6/101 ==========
+--- Alert Box Data ---
+  Alert Text: 十万
+不走点死
+查看全部队伍
+  Alert Text: 十万
+  Alert Text: 不走点死
+========== Data from page 6/101 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 地鼠
+red_bold_text: 切地龙切巨金自爆，星星戏法锁地，地龙32
+warning_badge_text: 龙杀灾兽/猎斑鱼 岩杀秃鹰
+primary_trick_text: N/A
+------------------------------
+========== Data from page 6/101 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 地龙
+red_bold_text: 切地龙切星，戏法锁地，地龙20
+warning_badge_text: 龙杀猎斑鱼 岩杀暴鲤龙
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 6/102 ==========
+--- Alert Box Data ---
+  Alert Text: 看道具
+查看全部队伍
+  Alert Text: 看道具
+========== Data from page 6/102 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 气球
+red_bold_text: 自选
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 速
+      nested_header_operate_text (collapsed): 直接切巨金自爆，星星戏法锁地，地龙32
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 龙杀灾兽/猎斑鱼 岩杀秃鹰【被地震ct死了，推荐注销等cd再来】
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 稳
+      nested_header_operate_text (collapsed): 切地龙切巨金自爆，星星戏法锁地，地龙32
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 龙杀灾兽/猎斑鱼 岩杀秃鹰
+    --------------------
+------------------------------
+========== Data from page 6/102 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 披带
+red_bold_text: 戏法锁地，战龙21
+warning_badge_text: 龙杀蜈蚣
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 6/103 ==========
+--- Alert Box Data ---
+  Alert Text: 电杀出地鼠，切地龙切星，戏法锁地，战龙21
+龙杀蜈蚣
+查看全部队伍
+  Alert Text: 电杀出地鼠，切地龙切星，戏法锁地，战龙21
+  Alert Text: 龙杀蜈蚣
+
+========== Data from page 6/104 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法锁地鼠，战龙21
+龙杀蜈蚣
+查看全部队伍
+  Alert Text: 戏法锁地鼠，战龙21
+  Alert Text: 龙杀蜈蚣
+
+========== Data from page 6/105 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 6/105 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 地震
+red_bold_text: 战龙21
+warning_badge_text: 地震乱一地龙
+primary_trick_text: N/A
+------------------------------
+========== Data from page 6/105 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 地龙
+red_bold_text: 战龙21
+warning_badge_text: 龙杀巨牙鲨
+primary_trick_text: N/A
+------------------------------
+

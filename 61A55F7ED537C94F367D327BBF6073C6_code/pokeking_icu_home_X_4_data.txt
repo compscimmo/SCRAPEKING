@@ -1,0 +1,1110 @@
+========== Data from page 4/6 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 4/6 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 锁巨金【命玉】
+red_bold_text: 地龙2+1+2
+warning_badge_text: 翼龙71 二连+地震杀钢蛇
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/6 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 锁地龙
+red_bold_text: 恶龙2+2+钉
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/6 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 锁钢蛇
+red_bold_text: 三首4+2+钉
+warning_badge_text: 满血三首追速可以不钉
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/6 ==========
+--- Card Entry (Card 4) ---
+pokemon_name: 锁乘龙
+red_bold_text: 看道具
+warning_badge_text: N/A
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 【讲究】
+      nested_header_operate_text (collapsed): (被CT先回血)再戏法 锁地龙 恶龙 2+2+钉
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 【果子】
+      nested_header_operate_text (collapsed): 嘟嘟戏法 地鼠4+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+------------------------------
+========== Data from page 4/6 ==========
+--- Card Entry (Card 5) ---
+pokemon_name: 快龙
+red_bold_text: 钉 灯2+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 4/14 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 4/14 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 【火拳】
+red_bold_text: 看道具
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (3) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 达人带
+      nested_header_operate_text (collapsed): 灯3+2/怕被水喷秒，吃个防御
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 71路卡
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 剩饭
+      nested_header_operate_text (collapsed): 三首4+2+钉
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 尽量回60%以上
+    --------------------
+    Nested Item 0-3:
+      nested_header_label_text (collapsed): 力量头带
+      nested_header_operate_text (collapsed): 三首2+2+钉
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 不能红血，最后恢复
+    --------------------
+------------------------------
+========== Data from page 4/14 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 【大字爆】
+red_bold_text: 灯2+2+2(防御)
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/14 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 【打雷】
+red_bold_text: 地鼠2+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+  --- Nested Items (1) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 跑钢蛇
+      nested_header_operate_text (collapsed): 备用戏法 地龙2+1+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+------------------------------
+
+========== Data from page 4/15 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 4/15 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 锁路卡
+red_bold_text: 看道具
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (3) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 【命玉】
+      nested_header_operate_text (collapsed): 稳:灯5+2 追速:满血灯3+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 71近战
+      nested_header_operate_text (collapsed): 满血灯3+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 待测
+    --------------------
+    Nested Item 0-3:
+      nested_header_label_text (collapsed): 71波导
+      nested_header_operate_text (collapsed): 切备用戏法，看锁什么，找下面
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+------------------------------
+========== Data from page 4/15 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 锁钢蛇
+red_bold_text: 地龙4+1+2
+warning_badge_text: 路卡71
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/15 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 锁快龙
+red_bold_text: N/A
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (3) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 达人带
+      nested_header_operate_text (collapsed): 钉 灯2+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 剩饭
+      nested_header_operate_text (collapsed): 十万破多鳞 灯2+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+    Nested Item 0-3:
+      nested_header_label_text (collapsed): 力量头带
+      nested_header_operate_text (collapsed): 三首2+2+钉
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 最后恢复
+    --------------------
+------------------------------
+========== Data from page 4/15 ==========
+--- Card Entry (Card 4) ---
+pokemon_name: 风速狗
+red_bold_text: 切灯点觉醒
+warning_badge_text: 待测
+primary_trick_text: N/A
+  --- Nested Items (3) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 没跑
+      nested_header_operate_text (collapsed): 灯3+2+2（防御）
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 路卡71
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 跑了快龙
+      nested_header_operate_text (collapsed): 切备用戏法 灯3+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+    Nested Item 0-3:
+      nested_header_label_text (collapsed): 切灯对位刚蛇
+      nested_header_operate_text (collapsed): 切恶龙切备用戏法 地龙412
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 路卡71
+    --------------------
+------------------------------
+========== Data from page 4/15 ==========
+--- Card Entry (Card 5) ---
+pokemon_name: 魔兽
+red_bold_text: 灯4+2
+warning_badge_text: 71路卡
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 4/26 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 4/26 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 锁钢蛇
+red_bold_text: 看道具
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (3) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 【释陀果】
+      nested_header_operate_text (collapsed): 地鼠4+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 【凸凸头盔】
+      nested_header_operate_text (collapsed): 地龙4+1+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 路卡71
+    --------------------
+    Nested Item 0-3:
+      nested_header_label_text (collapsed): 【枝荔果】
+      nested_header_operate_text (collapsed): 地鼠2+2+钉
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 翼龙71
+    --- Nested Items (1) ---
+      Nested Item 1-1:
+        nested_header_label_text (collapsed): 强化跑乘龙
+        nested_header_operate_text (collapsed): 切备用戏法锁大钢蛇，地鼠2+2+钉
+        nested_trick_text (expanded): N/A
+        nested_body_label_text (expanded): N/A
+        nested_body_operate_text (expanded): N/A
+        nested_warning_badge_text (expanded): N/A
+      --------------------
+    --------------------
+------------------------------
+
+========== Data from page 4/32 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法 钉 三首4+0
+不能低于50%
+查看全部队伍
+  Alert Text: 戏法 钉 三首4+0
+  Alert Text: 不能低于50%
+
+========== Data from page 4/33 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 4/33 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 锁巨金
+red_bold_text: 看信息
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (3) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 【命玉】
+      nested_header_operate_text (collapsed): 看技能
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 不能红血
+    --- Nested Items (2) ---
+      Nested Item 1-1:
+        nested_header_label_text (collapsed): 【觉火】
+        nested_header_operate_text (collapsed): 钉 切灯切备用戏法 三首2（防御）+4+2
+        nested_trick_text (expanded): N/A
+        nested_body_label_text (expanded): N/A
+        nested_body_operate_text (expanded): N/A
+        nested_warning_badge_text (expanded): 不能红血
+      --------------------
+      Nested Item 1-2:
+        nested_header_label_text (collapsed): 【地震】
+        nested_header_operate_text (collapsed): 地鼠4+2
+        nested_trick_text (expanded): N/A
+        nested_body_label_text (expanded): N/A
+        nested_body_operate_text (expanded): N/A
+        nested_warning_badge_text (expanded): 翼龙71 无威胁
+      --------------------
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 【71】【臂锤】
+      nested_header_operate_text (collapsed): 钉 灯2+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+    Nested Item 0-3:
+      nested_header_label_text (collapsed): 【凸凸头盔】
+      nested_header_operate_text (collapsed): 地龙2+1+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 双斧71
+    --------------------
+------------------------------
+========== Data from page 4/33 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 锁快龙
+red_bold_text: 钉
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 【大字爆】
+      nested_header_operate_text (collapsed): 灯2+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 【火拳】
+      nested_header_operate_text (collapsed): 灯2+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 灯跑老班看下面
+    --- Nested Items (1) ---
+      Nested Item 1-1:
+        nested_header_label_text (collapsed): 备用戏法
+        nested_header_operate_text (collapsed): 三首2（防御）+2+2
+        nested_trick_text (expanded): N/A
+        nested_body_label_text (expanded): N/A
+        nested_body_operate_text (expanded): N/A
+        nested_warning_badge_text (expanded): 不能红血
+      --------------------
+    --------------------
+------------------------------
+========== Data from page 4/33 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 锁地龙
+red_bold_text: 恶龙 2+2+钉
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/33 ==========
+--- Card Entry (Card 4) ---
+pokemon_name: 鳗鱼王
+red_bold_text: 钉 三首4+2
+warning_badge_text: 最后不能低于50%血
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 4/36 ==========
+--- Alert Box Data ---
+  Alert Text: 灯4+2
+路卡71 //被路卡ct回血/吃防御，被冻吃万灵，水喷打80左右
+查看全部队伍
+  Alert Text: 灯4+2
+  Alert Text: 路卡71 //被路卡ct回血/吃防御，被冻吃万灵，水喷打80左右
+
+========== Data from page 4/41 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法 三首钉 灯2+2
+查看全部队伍
+  Alert Text: 戏法 三首钉 灯2+2
+
+========== Data from page 4/46 ==========
+--- Alert Box Data ---
+  Alert Text: 十万伏特，切备用
+胆大的老登可以直接戏法处理/路卡71
+查看全部队伍
+  Alert Text: 十万伏特，切备用
+  Alert Text: 胆大的老登可以直接戏法处理/路卡71
+========== Data from page 4/46 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 大钢蛇
+red_bold_text: 戏法 地龙4+1+2
+warning_badge_text: 71路卡
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/46 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 快龙
+red_bold_text: 戏法 十万破多鳞 三首钉 灯2+2
+warning_badge_text: 追速 三首不钉 切灯2+2+2（防御），概率跑暴鲤龙
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/46 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 电龙
+red_bold_text: 戏法 地鼠2+2+钉
+warning_badge_text: 概率跑暴鲤龙，跑了汇报一下
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/46 ==========
+--- Card Entry (Card 4) ---
+pokemon_name: 赖场
+red_bold_text: 十万点杀，双拉戏法手看上面
+warning_badge_text: 免地免火免电自己判断
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 4/51 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 4/51 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 锁恶波
+red_bold_text: 恶龙2(速度)+4+回血
+warning_badge_text: 血不能低60%
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/51 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 锁快龙
+red_bold_text: 灯2+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 4/52 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 4/52 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 锁阿伯怪
+red_bold_text: 看道具
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 【黑色污泥】
+      nested_header_operate_text (collapsed): 地鼠4+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 翼龙71 无威胁
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 【凸凸头盔】
+      nested_header_operate_text (collapsed): 地龙2+1+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 大力鳄71
+    --------------------
+------------------------------
+========== Data from page 4/52 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 锁巨金
+red_bold_text: 地龙2+1+2
+warning_badge_text: 翼龙,大力鳄71 二连+地震钢蛇
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/52 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 锁快龙
+red_bold_text: 灯2+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/52 ==========
+--- Card Entry (Card 4) ---
+pokemon_name: 锁恶龙
+red_bold_text: 恶龙 速度+诡计x2+元气根
+warning_badge_text: 血不能低55%
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/52 ==========
+--- Card Entry (Card 5) ---
+pokemon_name: 锁老班
+red_bold_text: 钉
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 【蛮力】
+      nested_header_operate_text (collapsed): 满血灯3+0+2（防御）
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 待测
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 【咬碎】
+      nested_header_operate_text (collapsed): 送 恶龙 防御+诡计x2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 血不能低30%
+    --------------------
+------------------------------
+========== Data from page 4/52 ==========
+--- Card Entry (Card 6) ---
+pokemon_name: 锁钢蛇
+red_bold_text: 地鼠4+2
+warning_badge_text: 翼龙71 无威胁
+primary_trick_text: N/A
+  --- Nested Items (1) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 跑乘龙
+      nested_header_operate_text (collapsed): 嘟嘟戏法 地鼠4+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 翼龙71 无威胁
+    --------------------
+------------------------------
+========== Data from page 4/52 ==========
+--- Card Entry (Card 7) ---
+pokemon_name: 风狗
+red_bold_text: 切灯觉冰打快龙 备用戏法 灯2+2
+warning_badge_text: 风狗不走灯5+2
+primary_trick_text: N/A
+  --- Nested Items (1) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 跑恶龙
+      nested_header_operate_text (collapsed): 备用戏法锁恶，恶龙2（速）+4+回血
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 最后血量60%以上
+    --------------------
+------------------------------
+========== Data from page 4/52 ==========
+--- Card Entry (Card 8) ---
+pokemon_name: 鳗鱼
+red_bold_text: 三首4+2+钉
+warning_badge_text: 最后回60%以上
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 4/66 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 4/66 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 嘎了
+red_bold_text: 恶龙 4+2+钉
+warning_badge_text: 血不能低35%
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/66 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 没嘎
+red_bold_text: 恶龙 特防+诡计x2+速度+钉
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/66 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 待测新打法
+red_bold_text: 戏法 切灯冥想
+warning_badge_text: 71卢卡
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 跑快龙
+      nested_header_operate_text (collapsed): 切备用戏法 十万 灯2+2+2（防御）
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 不跑
+      nested_header_operate_text (collapsed): 灯3+2+2（防御）
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+------------------------------
+
+========== Data from page 4/67 ==========
+--- Alert Box Data ---
+  Alert Text: 吃防御 戏法
+71路卡
+查看全部队伍
+  Alert Text: 吃防御 戏法
+  Alert Text: 71路卡
+========== Data from page 4/67 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 戏法 赖场咬碎
+red_bold_text: 吃能力防守 三首2（防御）+4+2+钉
+warning_badge_text: 血不能红
+primary_trick_text: N/A
+  --- Nested Items (3) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 吃防守跑了魔兽
+      nested_header_operate_text (collapsed): 灯4+2+2（防御）
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 71路卡
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 赖场吸取
+      nested_header_operate_text (collapsed): 切备用戏法 灯4+2+2（防御）
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 71路卡
+    --------------------
+    Nested Item 0-3:
+      nested_header_label_text (collapsed): 吃防守跑喷火龙
+      nested_header_operate_text (collapsed): 切灯切备用戏法，灯4+2+2（防御）
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 71路卡
+    --------------------
+------------------------------
+========== Data from page 4/67 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 快龙
+red_bold_text: 灯3+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/67 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 魔兽/喷火龙
+red_bold_text: 灯4+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 4/68 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 4/68 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 钢蛇【释陀果】
+red_bold_text: 地鼠4+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/68 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 锁地龙
+red_bold_text: 恶龙 2+2+钉
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/68 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 锁快龙
+red_bold_text: 看信息
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 【达人带】
+      nested_header_operate_text (collapsed): 灯3+2/待测
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 路卡71 血不能低35%
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 【剩饭】
+      nested_header_operate_text (collapsed): 钉
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 最后回到70%
+    --- Nested Items (2) ---
+      Nested Item 1-1:
+        nested_header_label_text (collapsed): 【大字爆】
+        nested_header_operate_text (collapsed): 三首2+2
+        nested_trick_text (expanded): N/A
+        nested_body_label_text (expanded): N/A
+        nested_body_operate_text (expanded): N/A
+        nested_warning_badge_text (expanded): N/A
+      --------------------
+      Nested Item 1-2:
+        nested_header_label_text (collapsed): 火拳
+        nested_header_operate_text (collapsed): 三首4+2
+        nested_trick_text (expanded): N/A
+        nested_body_label_text (expanded): N/A
+        nested_body_operate_text (expanded): N/A
+        nested_warning_badge_text (expanded): 最后回到70%
+      --------------------
+    --------------------
+------------------------------
+========== Data from page 4/68 ==========
+--- Card Entry (Card 4) ---
+pokemon_name: 锁老班
+red_bold_text: 钉
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 【蛮力】
+      nested_header_operate_text (collapsed): 灯3+0
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 待测
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 【咬碎】
+      nested_header_operate_text (collapsed): 十万送巨金 恶龙2(防御)+4+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 血不能变红
+    --------------------
+------------------------------
+========== Data from page 4/68 ==========
+--- Card Entry (Card 5) ---
+pokemon_name: 锁巨金【凸凸头盔】
+red_bold_text: 地龙2+1+2
+warning_badge_text: 双斧71
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/68 ==========
+--- Card Entry (Card 6) ---
+pokemon_name: 锁混混
+red_bold_text: 钉 跑快龙 切灯 切备用
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (1) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 基拉祈
+      nested_header_operate_text (collapsed): 戏法 锁火拳 灯2+2【嗑药】
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 跑混混不管 CT嘎了 上恶龙4+2
+    --------------------
+------------------------------
+========== Data from page 4/68 ==========
+--- Card Entry (Card 7) ---
+pokemon_name: 大力鳄【围巾】
+red_bold_text: 看技能
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 见攀瀑
+      nested_header_operate_text (collapsed): 三首2（防御）+4+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 见地震
+      nested_header_operate_text (collapsed): 地龙2+1+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 地震阿伯怪
+    --- Nested Items (1) ---
+      Nested Item 1-1:
+        nested_header_label_text (collapsed): 跑快龙
+        nested_header_operate_text (collapsed): 备用戏法 灯2+2
+        nested_trick_text (expanded): N/A
+        nested_body_label_text (expanded): N/A
+        nested_body_operate_text (expanded): N/A
+        nested_warning_badge_text (expanded): 推队前解状态
+      --------------------
+    --------------------
+------------------------------
+========== Data from page 4/68 ==========
+--- Card Entry (Card 8) ---
+pokemon_name: 电击魔兽
+red_bold_text: 灯4+2
+warning_badge_text: 71路卡,被路卡ct吃防御或者回血再推，水喷82左右
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 4/69 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法 地鼠4+2
+查看全部队伍
+  Alert Text: 戏法 地鼠4+2
+
+========== Data from page 4/70 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 4/70 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 锁螳螂
+red_bold_text: 看道具
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (3) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 【金属膜】
+      nested_header_operate_text (collapsed): 钉 灯 特攻+速度+元气根
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 被CT继续回血直到不CT在推
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 【讲究】【飞行宝石】
+      nested_header_operate_text (collapsed): 钉 灯2+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --------------------
+    Nested Item 0-3:
+      nested_header_label_text (collapsed): 【讲究】折返出大钢蛇
+      nested_header_operate_text (collapsed): 再戏法锁地震，地鼠4+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --- Nested Items (1) ---
+      Nested Item 1-1:
+        nested_header_label_text (collapsed): 
+        nested_header_operate_text (collapsed): 待测，戏法锁地震，地鼠4+2
+        nested_trick_text (expanded): N/A
+        nested_body_label_text (expanded): N/A
+        nested_body_operate_text (expanded): N/A
+        nested_warning_badge_text (expanded): N/A
+      --------------------
+    --------------------
+------------------------------
+========== Data from page 4/70 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 锁地龙
+red_bold_text: 恶龙2+2钉
+warning_badge_text: 血不能低55%
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/70 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 锁巨金【凸凸头盔】
+red_bold_text: 地龙2+1+2
+warning_badge_text: 双斧71
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/70 ==========
+--- Card Entry (Card 4) ---
+pokemon_name: 锁快龙
+red_bold_text: 钉
+warning_badge_text: N/A
+primary_trick_text: N/A
+  --- Nested Items (1) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 【大字爆】
+      nested_header_operate_text (collapsed): 灯2+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): N/A
+    --- Nested Items (1) ---
+      Nested Item 1-1:
+        nested_header_label_text (collapsed): 跑大力鳄
+        nested_header_operate_text (collapsed): 备用戏法
+        nested_trick_text (expanded): N/A
+        nested_body_label_text (expanded): N/A
+        nested_body_operate_text (expanded): N/A
+        nested_warning_badge_text (expanded): N/A
+      --- Nested Items (2) ---
+        Nested Item 2-1:
+          nested_header_label_text (collapsed): 锁蛮力
+          nested_header_operate_text (collapsed): 灯2+2
+          nested_trick_text (expanded): N/A
+          nested_body_label_text (expanded): N/A
+          nested_body_operate_text (expanded): N/A
+          nested_warning_badge_text (expanded): N/A
+        --------------------
+        Nested Item 2-2:
+          nested_header_label_text (collapsed): 锁攀瀑
+          nested_header_operate_text (collapsed): 恶龙2（防御）+4+2
+          nested_trick_text (expanded): N/A
+          nested_body_label_text (expanded): N/A
+          nested_body_operate_text (expanded): N/A
+          nested_warning_badge_text (expanded): N/A
+        --------------------
+      --------------------
+    --------------------
+------------------------------
+========== Data from page 4/70 ==========
+--- Card Entry (Card 5) ---
+pokemon_name: 战龙
+red_bold_text: 地龙2+1+2
+warning_badge_text: 71战龙
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/70 ==========
+--- Card Entry (Card 6) ---
+pokemon_name: 大钢蛇
+red_bold_text: 地鼠4+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 4/71 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法快龙 十万 钉 三首4+2
+三首抗火注意回复，最后要60
+查看全部队伍
+  Alert Text: 戏法快龙 十万 钉 三首4+2
+  Alert Text: 三首抗火注意回复，最后要60
+========== Data from page 4/71 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 不走咬碎
+red_bold_text: 求稳-基拉祈钉 吃能力防守 送了 三首2（防御）+2+2
+warning_badge_text: 追速 直接三首2（防御）+2+2+钉
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/71 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 以上待测，反馈
+red_bold_text: N/A
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+========== Data from page 4/71 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 赖场蛮力
+red_bold_text: 钉，灯3+2
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (1) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 跑快龙
+      nested_header_operate_text (collapsed): 备用戏法，三首4+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 注意回复，最后要60血以上
+    --------------------
+------------------------------
+
+========== Data from page 4/72 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 4/72 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 锁快龙
+red_bold_text: 看道具
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 【力量头带】
+      nested_header_operate_text (collapsed): 三首2+2+钉
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 不能红血，最后恢复
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 【剩饭】
+      nested_header_operate_text (collapsed): 地龙2+1+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 战龙71
+    --------------------
+------------------------------
+========== Data from page 4/72 ==========
+--- Card Entry (Card 2) ---
+pokemon_name: 锁电龙
+red_bold_text: 看道具
+warning_badge_text: 
+primary_trick_text: N/A
+  --- Nested Items (2) ---
+    Nested Item 0-1:
+      nested_header_label_text (collapsed): 【围巾】
+      nested_header_operate_text (collapsed): 再戏法
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 双斧71
+    --- Nested Items (2) ---
+      Nested Item 1-1:
+        nested_header_label_text (collapsed): 跑快龙
+        nested_header_operate_text (collapsed): 钉 灯2+2
+        nested_trick_text (expanded): N/A
+        nested_body_label_text (expanded): N/A
+        nested_body_operate_text (expanded): N/A
+        nested_warning_badge_text (expanded): N/A
+      --------------------
+      Nested Item 1-2:
+        nested_header_label_text (collapsed): 锁巨金 / 没走
+        nested_header_operate_text (collapsed): 地龙2+1+2
+        nested_trick_text (expanded): N/A
+        nested_body_label_text (expanded): N/A
+        nested_body_operate_text (expanded): N/A
+        nested_warning_badge_text (expanded): 双斧71
+      --------------------
+    --------------------
+    Nested Item 0-2:
+      nested_header_label_text (collapsed): 【命玉】
+      nested_header_operate_text (collapsed): 地龙4+1+2
+      nested_trick_text (expanded): N/A
+      nested_body_label_text (expanded): N/A
+      nested_body_operate_text (expanded): N/A
+      nested_warning_badge_text (expanded): 地震钢蛇 71路卡
+    --------------------
+------------------------------
+========== Data from page 4/72 ==========
+--- Card Entry (Card 3) ---
+pokemon_name: 锁巨金
+red_bold_text: 地龙2+1+2
+warning_badge_text: 双斧71
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 4/73 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法 灯3+2+2（防御）
+ct死了重新锁，没死吃全满
+查看全部队伍
+  Alert Text: 戏法 灯3+2+2（防御）
+  Alert Text: ct死了重新锁，没死吃全满
+========== Data from page 4/73 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 灯冥想跑快龙
+red_bold_text: 备用戏法 十万破鳞片 灯3+2
+warning_badge_text: 待测是不是只有6队抓
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 4/74 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法 锁钢蛇 三首4+2+钉
+翼龙71
+查看全部队伍
+  Alert Text: 戏法 锁钢蛇 三首4+2+钉
+  Alert Text: 翼龙71
+========== Data from page 4/74 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 不走
+red_bold_text: 地鼠4+2
+warning_badge_text: N/A
+primary_trick_text: N/A
+------------------------------
+
+========== Data from page 4/75 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法 恶龙 2+2+钉
+查看全部队伍
+  Alert Text: 戏法 恶龙 2+2+钉
+
+========== Data from page 4/76 ==========
+--- Alert Box Data ---
+  Alert Text: 戏法
+查看全部队伍
+  Alert Text: 戏法
+========== Data from page 4/76 ==========
+--- Card Entry (Card 1) ---
+pokemon_name: 锁巨金 / 双斧 / 快龙
+red_bold_text: 地龙2+1+2
+warning_badge_text: 双斧71 血不能低40%
+primary_trick_text: N/A
+------------------------------
+
