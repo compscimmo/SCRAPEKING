@@ -1,5 +1,5 @@
 {
-"ＡＲ系统":"rks system ",
+    "ＡＲ系统":"rks system ",
 "一口导弹":"gulp missile ",
 "一猩一意":"gorilla tactics ",
 "一般皮肤":"normalize ",
@@ -3655,5 +3655,19 @@
 "根据":"according to ",
 "判断":"to determine ",
 "根据减防判断":"based on defense drops determine ",
-"详细":"detailed "
+"详细":"detailed ",
+"欢迎登录":"welcome to login ",
+"登录":"login ",
+"前往注册":"register ",
+"前往重置":"reset ",
+"重置用户名密码":"reset username/password ",
+"密码":"password ",
+"请输入":"please enter ",
+"返回登录":"back to login ",
+"提交":"submit ",
+"还没账号":"don't have account ",
+"忘记用户名密码":"forgot username/password ",
+"用户名：":"username ",
+"密 码：":"password ",
+"邮 箱：":"email "
 }
