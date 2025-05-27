@@ -1,5 +1,5 @@
 # SCRAPEKING
-for pokeking: scrape and clean data. finds untranslated values that need to be added to dictionary.
+for pokeking: scrape and clean data. finds untranslated values that need to be added to dictionary based on pokeking codes
 
 
 cmd prompt
