@@ -12,8 +12,8 @@ import time
 import traceback # Import traceback module
 
 # --- IMPORTANT: FILL IN YOUR CREDENTIALS HERE ---
-YOUR_USERNAME = "fuwua"
-YOUR_PASSWORD = "ww287962"
+YOUR_USERNAME = ""
+YOUR_PASSWORD = ""
 # -------------------------------------------------
 
 def initialize_driver():
